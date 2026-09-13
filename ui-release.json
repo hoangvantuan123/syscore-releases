@@ -1,7 +1,9 @@
 {
   "version": "2.0.1",
   "releaseDate": "2026-09-13",
-  "description": "Bản cập nhật giao diện Hot Update v2.0.1",
-  "downloadUrl": "https://github.com/hoangvantuan123/syscore-releases/releases/download/ui-v2.0.1/renderer-v2.0.1.zip",
-  "fileSize": 1693953
+  "description": "Bản cập nhật giao diện Hot Update v2.0.1 (Đã mã hóa AES-256)",
+  "format": "syscore-aes256",
+  "downloadUrl": "https://github.com/hoangvantuan123/syscore-releases/releases/download/ui-v2.0.1/renderer-v2.0.1.syscore",
+  "fileSize": 1693984,
+  "sha256": "ba3ad6461b227432afdc16d35e60fa50dff3333b18622e3b610164885869b3cb"
 }
